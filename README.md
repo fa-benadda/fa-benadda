@@ -1,4 +1,4 @@
-# Hi there, I'm Razan Benadda 👋🎨
+# Hi there, I'm Razan Ben 👋🎨
 
 ### 🌟 Computer Science Student | Artist & UI/UX Enthusiast
 I am a passionate student at Amar Telidji University, blending technical logic with creative design.
