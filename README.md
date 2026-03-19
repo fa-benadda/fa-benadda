@@ -20,9 +20,10 @@ I am a passionate student at Amar Telidji University, blending technical logic w
 ---
 
 ### 🎨 Art & Design:
-As a graphic designer and painter (Hiba Ben Adda), I love bringing aesthetics to the digital world. Check out my creative work!
+I love bringing aesthetics to the digital world. Check out my creative work!
 
 ---
 
 ### 📬 Connect with me:
-- 📸 Instagram: [Creative Touch by Razan]
+- 📸 Instagram: [𝕭𝖚𝖟 𝕶𝖗𝖆𝖑𝖎ç𝖊𝖘𝖎 ❄️
+- 03--59--20]
