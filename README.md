@@ -7,7 +7,7 @@ I am a passionate student at Amar Telidji University, blending technical logic w
 
 ### 🚀 Projects I'm building:
 - 💻 Skill Exchange Platform: A web platform for students to share knowledge and skills.
-- 🎨 Creative Touch by Razan: Crafting visual identities and digital art.
+- 🎨  Crafting visual identities and digital art.
 - ☕ Java & Databases: Exploring OOP concepts and efficient data management.
 
 ### 🛠️ My Tech Stack:
