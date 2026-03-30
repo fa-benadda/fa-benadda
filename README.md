@@ -38,7 +38,7 @@ Je suis une étudiante en Informatique à l'Université Amar Telidji. Au-delà d
 ---
 
 ## 📫 Contactez-moi
-- GitHub: @fabenadda-cell
+- GitHub: @fa-benadda
 - Passion: Étudiante Informatique | Artiste | Graphiste
 
 ---
