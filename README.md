@@ -21,7 +21,7 @@ I am a Computer Science student at Amar Telidji University. Beyond writing code,
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## 🛠️ Technologies Stack || USE
 <!-- هذي هي الأيقونات المنظمة والمزخرفة مثل ما في صورك المرجعية -->
 <p align="left">
   <!-- Java -->
