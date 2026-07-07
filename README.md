@@ -57,7 +57,6 @@ I am a Computer Science student at Amar Telidji University. Beyond writing code,
   > *"Sports teach me perseverance, art teaches me precision, and code teaches me logic."*
 </p>
 
-*(💡 Tip: Drag and drop your project screenshots or art photos here!)*
 
 ---
 
@@ -75,7 +74,7 @@ I am a Computer Science student at Amar Telidji University. Beyond writing code,
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=fabenadda&color=blue&style=flat-square" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?username=fa-benadda&color=blue&style=flat-square" alt="Views" />
 </p>
 
 
