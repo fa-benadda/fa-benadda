@@ -6,7 +6,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20my%20Space&fontSize=40&animation=fadeIn" alt="Header" />
 </p>
 
-### 🚀 Future Software Engineer | 🎨 Visual Artist | ⚽ Passionate Athlete
+### 🚀 Future Software  || ⚽ Passionate Athlete
 
 ---
 
@@ -17,7 +17,6 @@ I am a Computer Science student at Amar Telidji University. Beyond writing code,
 
 - 🎓 Education: Specialized in Java, Web Development, and Database Management.
 - 🎨 Design & Creativity: Logo designer and visual identity creator (Scouting Projects).
-- 🌸 Craftsmanship: Creator of handmade satin flowers.
 - ⚽ Team Spirit: Passionate player of Football, Volleyball, Handball, Basketball, and Swimming.
 
 ---
@@ -62,15 +61,15 @@ I am a Computer Science student at Amar Telidji University. Beyond writing code,
 
 ## 📫 Connect with Me
 <p align="left">
-  <a href="https://github.com/fabenadda">
-    <img src="https://img.shields.io/badge/GitHub-@fabenadda-181717?style=for-the-badge&logo=github" alt="github" />
+  <a href="https://github.com/fa-benadda">
+    <img src="https://img.shields.io/badge/GitHub-@fa-benadda-181717?style=for-the-badge&logo=github" alt="github" />
   </a>
 </p>
 
 ---
 <!-- الإحصائيات مع الثيم Radical مثل صورة image_4.png -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fabenadda&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fa-benadda&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
