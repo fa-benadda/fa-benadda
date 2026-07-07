@@ -61,19 +61,19 @@ I am a Computer Science student at Amar Telidji University. Beyond writing code,
 
 ## 📫 Connect with Me
 <p align="left">
-  <a href="https://github.com/fa-benadda">
-    <img src="https://img.shields.io/badge/GitHub-@fa-benadda-181717?style=for-the-badge&logo=github" alt="github" />
+  <a href="https://github.com/fabenadda">
+    <img src="https://img.shields.io/badge/GitHub-@fabenadda-181717?style=for-the-badge&logo=github" alt="github" />
   </a>
 </p>
 
 ---
 <!-- الإحصائيات مع الثيم Radical مثل صورة image_4.png -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fa-benadda&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fabenadda&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=fa-benadda&color=blue&style=flat-square" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?username=fabenadda&color=blue&style=flat-square" alt="Views" />
 </p>
 
 
