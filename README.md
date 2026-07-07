@@ -1,55 +1,60 @@
 # ✨ Hi there, I'm Razan! 👋
 
+---
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=39ff14&height=180&section=header&text=Building%20the%20Future%20%7C%20Code%20%7C%20Art%20%7C%20Play&fontSize=32&animation=fadeIn&fontColor=ffffff&fontAlignY=50" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20my%20Space&fontSize=40&animation=fadeIn" alt="Header" />
 </p>
 
-### 🚀 Future Software Engineer  |  🎨 Visual Artist  |  ⚽ Passionate Athlete
+### 🚀 Future Software Engineer | 🎨 Visual Artist | ⚽ Passionate Athlete
 
 ---
 
 ## 👩‍💻 About Me
 <p align="left">
-I am a dedicated Computer Science student at Amar Telidji University. I believe that technology is a powerful tool for creation, and my approach is shaped by the precision of code, the creativity of art, and the discipline of sports. My goal is to build impactful solutions with elegance.
+I am a Computer Science student at Amar Telidji University. Beyond writing code, I am a creative mind who believes that the discipline of sports and the aesthetics of art perfectly complement the logic of programming.
 </p>
 
-- 🎓 Education: Exploring the intersections of Java, Web Dev, and Data Structures.
-- 🎨 Design: Creating unique logos and branding, with a keen eye for visual storytelling.
-- 🌸 Artistry: Hands-on satin flower crafting, blending texture with imagination.
-- ⚽ Athletics: Driven by team spirit in Football, Volleyball, and more.
+- 🎓 Education: Specialized in Java, Web Development, and Database Management.
+- 🎨 Design & Creativity: Logo designer and visual identity creator (Scouting Projects).
+- 🌸 Craftsmanship: Creator of handmade satin flowers.
+- ⚽ Team Spirit: Passionate player of Football, Volleyball, Handball, Basketball, and Swimming.
 
 ---
 
 ## 🛠️ Tech Stack & Skills
+<!-- هذي هي الأيقونات المنظمة والمزخرفة مثل ما في صورك المرجعية -->
 <p align="left">
   <!-- Java -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="48" height="48"/>&nbsp;
-  <!-- HTML5 -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="48" height="48"/>&nbsp;
-  <!-- CSS3 -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="48" height="48"/>&nbsp;
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="java"/>&nbsp;
   <!-- C -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="43" height="43"/>&nbsp;
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="c"/>&nbsp;
+  <!-- HTML5 -->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/>&nbsp;
+  <!-- CSS3 -->
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/>&nbsp;
+  <!-- JavaScript -->
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript"/>&nbsp;
   <!-- VS Code -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="43" height="43"/>&nbsp;
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="vscode"/>&nbsp;
   <!-- Git -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="43" height="43"/>&nbsp;
-  <!-- Canva -->
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="canva" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git"/>&nbsp;
+  <!-- GitHub -->
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github"/>&nbsp;
 </p>
 
 ---
 
-## 🏆 Featured Projects
-- 📚 [University OOP Exercises](https://github.com/fabenadda/universitty-exercises): A vibrant collection of coding challenges and solutions.
-- ⚜️ Scout Identity: *Logo portfolio coming soon!* (Visually compelling branding work).
-- ✨ Creative Touch: Craftsmanship branding.
+## 🏆 Projects & Achievements
+- 📚 [University Exercises](https://github.com/fabenadda/universitty-exercises): My repository gathering practical work in OOP and Web Development.
+- ⚜️ Logo Design: Creation of visual identities for Algerian Scout groups.
+- ✨ Creative Touch: Branding and design for my handmade craftsmanship project.
 
 ---
 
 ## ⚽ Gallery
 <p align="center">
-  > *"Every line of code is a design choice; every goal is a strategy; every flower is a new life."*
+  > *"Sports teach me perseverance, art teaches me precision, and code teaches me logic."*
 </p>
 
 *(💡 Tip: Drag and drop your project screenshots or art photos here!)*
@@ -59,21 +64,18 @@ I am a dedicated Computer Science student at Amar Telidji University. I believe 
 ## 📫 Connect with Me
 <p align="left">
   <a href="https://github.com/fabenadda">
-    <img src="https://img.shields.io/badge/GitHub-@fabenadda--cell-181717?style=for-the-badge&logo=github" alt="github" />
+    <img src="https://img.shields.io/badge/GitHub-@fabenadda-181717?style=for-the-badge&logo=github" alt="github" />
   </a>
 </p>
 
 ---
-
+<!-- الإحصائيات مع الثيم Radical مثل صورة image_4.png -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=fabenadda&color=39ff14&style=flat-square" alt="Views" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fabenadda&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fabenadda&show_icons=true&theme=radical&bg_color=181717&text_color=ffffff&icon_color=39ff14" alt="GitHub Stats" />
+  <img src="https://komarev.com/ghpvc/?username=fabenadda&color=blue&style=flat-square" alt="Views" />
 </p>
-
-
-
 
 
