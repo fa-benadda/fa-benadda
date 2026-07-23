@@ -4,7 +4,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Robotics%20%7C%20Software%20%7C%20Art&fontSize=38&animation=fadeIn" alt="Header" />
 </p>
 
-### 🚀 Future Software & Robotics Engineer | 🎨 Visual Artist | ⚽ Athlete
+### 🚀 Future Software & Robotics  
 
 ---
 
@@ -15,7 +15,7 @@ I am a Computer Science student at Amar Telidji University with a strong passion
 
 - 🎓 Academic Focus: Java (OOP), Data Structures, and Web Development.
 - 🤖 Robotics & Embedded Systems: Arduino programming, circuit simulation, and sensor-actuator integration.
-- 🎨 Design & Branding: Visual identity creation (Scouting Projects) and handmade satin craftsmanship.
+- 🎨 Design & Branding: Visual identity creation (Scouting Projects) 
 - ⚽ Athletic Discipline: Active player in Football, Volleyball, Handball, Basketball, and Swimming.
 
 ---
@@ -64,6 +64,6 @@ I am a Computer Science student at Amar Telidji University with a strong passion
   > *"Hardware gives software a body, software gives hardware a mind, art gives them soul, and sports give them endurance."*
 </p>
 
-*(💡 Tip: You can drag and drop photos or GIFs of your Arduino circuits and satin art here!)*
+
 
 ---
